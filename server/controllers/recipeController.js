@@ -201,7 +201,8 @@ exports.submitRecipeOnPost = async(req, res) => {
 /**
  * Dummy Data Example 
 */
-
+// Function to add more details  in the database to increase the schema size;
+//for changing the elements add the elements to the db and the edit the cloud server data 
 // async function insertDymmyCategoryData(){
 //   try {
 //     await Category.insertMany([
